@@ -1,0 +1,5 @@
+## Ignore local [parameter] files
+*.cfg
+*.local
+*.local.json
+*.gist
